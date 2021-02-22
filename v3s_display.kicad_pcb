@@ -298,7 +298,7 @@
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (path /60E22DC6)
     (zone_connect 2)
-    (fp_text reference J4 (at 0 2.33) (layer B.SilkS)
+    (fp_text reference J4 (at 0 2.33) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab)
