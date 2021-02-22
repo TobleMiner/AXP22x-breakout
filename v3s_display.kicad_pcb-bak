@@ -224,13 +224,13 @@
     (tags resistor)
     (path /61564B2A)
     (attr smd)
-    (fp_text reference R3 (at 0 -1.17) (layer F.SilkS)
+    (fp_text reference R3 (at 0 -1.17) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 3.3kR (at 0 1.17) (layer F.Fab)
+    (fp_text value 3.3kR (at 0 1.17) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
     )
     (fp_line (start -0.525 0.27) (end -0.525 -0.27) (layer F.Fab) (width 0.1))
@@ -260,13 +260,13 @@
     (tags LED)
     (path /61514802)
     (attr smd)
-    (fp_text reference D1 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference D1 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value LED (at 0 1.43) (layer F.Fab)
+    (fp_text value LED (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start 0.8 -0.4) (end -0.5 -0.4) (layer F.Fab) (width 0.1))
@@ -298,13 +298,13 @@
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (path /60E22DC6)
     (zone_connect 2)
-    (fp_text reference J4 (at 0 2.33) (layer B.SilkS)
+    (fp_text reference J4 (at 0 2.33) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab)
+    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0 -8.89 270) (layer B.Fab)
+    (fp_text user %R (at 0 -8.89 270) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -0.635 1.27) (end 1.27 1.27) (layer B.Fab) (width 0.1))
@@ -350,13 +350,13 @@
     (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (path /60E0C56B)
-    (fp_text reference J3 (at 0 2.33) (layer B.SilkS)
+    (fp_text reference J3 (at 0 2.33) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab)
+    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0 -8.89 270) (layer B.Fab)
+    (fp_text user %R (at 0 -8.89 270) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -0.635 1.27) (end 1.27 1.27) (layer B.Fab) (width 0.1))
@@ -402,13 +402,13 @@
     (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (path /60DF5DE8)
-    (fp_text reference J2 (at 0 2.33) (layer B.SilkS)
+    (fp_text reference J2 (at 0 2.33) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab)
+    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0 -8.89 270) (layer B.Fab)
+    (fp_text user %R (at 0 -8.89 270) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -0.635 1.27) (end 1.27 1.27) (layer B.Fab) (width 0.1))
@@ -454,13 +454,13 @@
     (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x08 2.54mm single row")
     (path /60DF07B0)
-    (fp_text reference J1 (at 0 2.33) (layer B.SilkS)
+    (fp_text reference J1 (at 0 2.33) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab)
+    (fp_text value Conn_01x08 (at 0 -20.11) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0 -8.89 270) (layer B.Fab)
+    (fp_text user %R (at 0 -8.89 270) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -0.635 1.27) (end 1.27 1.27) (layer B.Fab) (width 0.1))
@@ -506,13 +506,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60D11A2C)
-    (fp_text reference JP8 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP8 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -546,13 +546,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60D11A26)
-    (fp_text reference JP7 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP7 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -586,13 +586,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60CFC6A1)
-    (fp_text reference JP6 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP6 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -626,13 +626,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60CFC69B)
-    (fp_text reference JP5 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP5 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -666,13 +666,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60CE7F24)
-    (fp_text reference JP4 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP4 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -706,13 +706,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60CE7F1E)
-    (fp_text reference JP3 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP3 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -746,13 +746,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60C8149A)
-    (fp_text reference JP2 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP2 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -786,13 +786,13 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /60C6CAE1)
-    (fp_text reference JP1 (at 0 -2.33) (layer F.SilkS)
+    (fp_text reference JP1 (at 0 -2.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab)
+    (fp_text value Jumper_NO_Small (at 0 4.87) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 1.27 90) (layer F.Fab)
+    (fp_text user %R (at 0 1.27 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer F.Fab) (width 0.1))
@@ -827,13 +827,13 @@
     (tags resistor)
     (path /6091AC1B)
     (attr smd)
-    (fp_text reference TH1 (at 0 -1.65) (layer F.SilkS)
+    (fp_text reference TH1 (at 0 -1.65) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "10kR  3950K" (at 0 1.65) (layer F.Fab)
+    (fp_text value "10kR  3950K" (at 0 1.65) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
     )
     (fp_line (start -1 0.625) (end -1 -0.625) (layer F.Fab) (width 0.1))
@@ -863,13 +863,13 @@
     (tags SOT-23)
     (path /60823916)
     (attr smd)
-    (fp_text reference Q1 (at 0 -2.5) (layer F.SilkS)
+    (fp_text reference Q1 (at 0 -2.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value Q_PMOS_GSD (at 0 2.5) (layer F.Fab)
+    (fp_text value Q_PMOS_GSD (at 0 2.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.075)))
     )
     (fp_line (start -0.7 -0.95) (end -0.7 1.5) (layer F.Fab) (width 0.1))
@@ -904,13 +904,13 @@
     (tags capacitor)
     (path /607E6A79)
     (attr smd)
-    (fp_text reference C42 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C42 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -940,13 +940,13 @@
     (tags capacitor)
     (path /607486BA)
     (attr smd)
-    (fp_text reference C41 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C41 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -976,13 +976,13 @@
     (tags capacitor)
     (path /6065599E)
     (attr smd)
-    (fp_text reference C40 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C40 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1012,13 +1012,13 @@
     (tags capacitor)
     (path /60648D25)
     (attr smd)
-    (fp_text reference C39 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C39 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1048,13 +1048,13 @@
     (tags capacitor)
     (path /6054F066)
     (attr smd)
-    (fp_text reference C38 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C38 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1084,13 +1084,13 @@
     (tags capacitor)
     (path /6055A64A)
     (attr smd)
-    (fp_text reference C37 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C37 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1120,13 +1120,13 @@
     (tags capacitor)
     (path /60565C52)
     (attr smd)
-    (fp_text reference C36 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C36 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1156,13 +1156,13 @@
     (tags capacitor)
     (path /60571068)
     (attr smd)
-    (fp_text reference C35 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C35 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1192,13 +1192,13 @@
     (tags capacitor)
     (path /60543473)
     (attr smd)
-    (fp_text reference C28 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C28 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1228,13 +1228,13 @@
     (tags capacitor)
     (path /605886EA)
     (attr smd)
-    (fp_text reference C16 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C16 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1264,13 +1264,13 @@
     (tags capacitor)
     (path /60521169)
     (attr smd)
-    (fp_text reference C15 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C15 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1300,13 +1300,13 @@
     (tags capacitor)
     (path /604FEC75)
     (attr smd)
-    (fp_text reference C12 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C12 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1336,13 +1336,13 @@
     (tags capacitor)
     (path /6052C85B)
     (attr smd)
-    (fp_text reference C11 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C11 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1372,13 +1372,13 @@
     (tags capacitor)
     (path /6050A1B7)
     (attr smd)
-    (fp_text reference C10 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C10 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1408,13 +1408,13 @@
     (tags capacitor)
     (path /6057CFA2)
     (attr smd)
-    (fp_text reference C9 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C9 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1444,13 +1444,13 @@
     (tags capacitor)
     (path /6049A481)
     (attr smd)
-    (fp_text reference C8 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C8 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1480,13 +1480,13 @@
     (tags capacitor)
     (path /60537DFD)
     (attr smd)
-    (fp_text reference C5 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C5 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1516,13 +1516,13 @@
     (tags capacitor)
     (path /6051568D)
     (attr smd)
-    (fp_text reference C4 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C4 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 4.7uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1552,13 +1552,13 @@
     (tags capacitor)
     (path /603F2AAE)
     (attr smd)
-    (fp_text reference C34 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C34 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1588,13 +1588,13 @@
     (tags capacitor)
     (path /603BCFED)
     (attr smd)
-    (fp_text reference C33 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C33 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1nF (at 0 1.16) (layer F.Fab)
+    (fp_text value 1nF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1624,13 +1624,13 @@
     (tags capacitor)
     (path /6039A2F2)
     (attr smd)
-    (fp_text reference C32 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C32 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1660,13 +1660,13 @@
     (tags capacitor)
     (path /6037D55C)
     (attr smd)
-    (fp_text reference C31 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C31 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1696,13 +1696,13 @@
     (tags capacitor)
     (path /6036A6A5)
     (attr smd)
-    (fp_text reference C30 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C30 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1732,13 +1732,13 @@
     (tags capacitor)
     (path /60361F07)
     (attr smd)
-    (fp_text reference C29 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C29 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1768,13 +1768,13 @@
     (tags capacitor)
     (path /603F2AA7)
     (attr smd)
-    (fp_text reference C27 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C27 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1804,13 +1804,13 @@
     (tags capacitor)
     (path /603DDAD1)
     (attr smd)
-    (fp_text reference C26 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C26 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1840,13 +1840,13 @@
     (tags capacitor)
     (path /603BCFF4)
     (attr smd)
-    (fp_text reference C25 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C25 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1876,13 +1876,13 @@
     (tags capacitor)
     (path /603AA339)
     (attr smd)
-    (fp_text reference C24 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C24 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1912,13 +1912,13 @@
     (tags capacitor)
     (path /6039A2EB)
     (attr smd)
-    (fp_text reference C23 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C23 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -1948,13 +1948,13 @@
     (tags capacitor)
     (path /60386A03)
     (attr smd)
-    (fp_text reference C22 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C22 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -1984,13 +1984,13 @@
     (tags capacitor)
     (path /6037D555)
     (attr smd)
-    (fp_text reference C21 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C21 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1nF (at 0 1.16) (layer F.Fab)
+    (fp_text value 1nF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -2020,13 +2020,13 @@
     (tags capacitor)
     (path /60368B8A)
     (attr smd)
-    (fp_text reference C20 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C20 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2056,13 +2056,13 @@
     (tags capacitor)
     (path /6035F6CE)
     (attr smd)
-    (fp_text reference C19 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C19 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 1nF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -2092,13 +2092,13 @@
     (tags capacitor)
     (path /604205D1)
     (attr smd)
-    (fp_text reference C18 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C18 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2128,13 +2128,13 @@
     (tags capacitor)
     (path /603F2ABC)
     (attr smd)
-    (fp_text reference C17 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C17 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2164,13 +2164,13 @@
     (tags capacitor)
     (path /604B82E9)
     (attr smd)
-    (fp_text reference C14 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C14 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2200,13 +2200,13 @@
     (tags capacitor)
     (path /6047C9EE)
     (attr smd)
-    (fp_text reference C13 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C13 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2236,13 +2236,13 @@
     (tags capacitor)
     (path /603569E4)
     (attr smd)
-    (fp_text reference C7 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C7 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2272,13 +2272,13 @@
     (tags capacitor)
     (path /603554D7)
     (attr smd)
-    (fp_text reference C6 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C6 (at 0 -1.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2308,13 +2308,13 @@
     (tags capacitor)
     (path /60351CC6)
     (attr smd)
-    (fp_text reference C3 (at 0 -1.43 90) (layer F.SilkS)
+    (fp_text reference C3 (at 0 -1.43 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab)
+    (fp_text value 10uF (at 0 1.43 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -2345,13 +2345,13 @@
     (path /603362AC)
     (zone_connect 2)
     (attr smd)
-    (fp_text reference U1 (at 0 -5.3) (layer F.SilkS)
+    (fp_text reference U1 (at 0 -5.3) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value AXP22x (at 0 5.3) (layer F.Fab)
+    (fp_text value AXP22x (at 0 5.3) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 3.56 -4.11) (end 4.11 -4.11) (layer F.SilkS) (width 0.12))
@@ -2605,13 +2605,13 @@
     (tags resistor)
     (path /6033DF19)
     (attr smd)
-    (fp_text reference R2 (at 0 -1.65) (layer F.SilkS)
+    (fp_text reference R2 (at 0 -1.65) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10mR (at 0 1.65) (layer F.Fab)
+    (fp_text value 10mR (at 0 1.65) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
     )
     (fp_line (start -1 0.625) (end -1 -0.625) (layer F.Fab) (width 0.1))
@@ -2641,13 +2641,13 @@
     (tags resistor)
     (path /6033E9C3)
     (attr smd)
-    (fp_text reference R1 (at 0 -1.65 90) (layer F.SilkS)
+    (fp_text reference R1 (at 0 -1.65 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 10mR (at 0 1.65 90) (layer F.Fab)
+    (fp_text value 10mR (at 0 1.65 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
     )
     (fp_line (start -1 0.625) (end -1 -0.625) (layer F.Fab) (width 0.1))
@@ -2677,13 +2677,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /6033CAFF)
     (attr smd)
-    (fp_text reference L6 (at 0 -2.5 90) (layer F.SilkS)
+    (fp_text reference L6 (at 0 -2.5 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2713,13 +2713,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /6033C2CD)
     (attr smd)
-    (fp_text reference L5 (at 0 -2.5) (layer F.SilkS)
+    (fp_text reference L5 (at 0 -2.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2749,13 +2749,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /6033BD82)
     (attr smd)
-    (fp_text reference L4 (at 0 -2.5 90) (layer F.SilkS)
+    (fp_text reference L4 (at 0 -2.5 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2785,13 +2785,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /6033AFBA)
     (attr smd)
-    (fp_text reference L3 (at 0 -2.5) (layer F.SilkS)
+    (fp_text reference L3 (at 0 -2.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2821,13 +2821,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /60339B6D)
     (attr smd)
-    (fp_text reference L2 (at 0 -2.5 90) (layer F.SilkS)
+    (fp_text reference L2 (at 0 -2.5 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2857,13 +2857,13 @@
     (tags "inductor taiyo-yuden md smd")
     (path /6033DA76)
     (attr smd)
-    (fp_text reference L1 (at 0 -2.5) (layer F.SilkS)
+    (fp_text reference L1 (at 0 -2.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1.5uH (at 0 3) (layer F.Fab)
+    (fp_text value 1.5uH (at 0 3) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.7 0.7) (thickness 0.105)))
     )
     (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.Fab) (width 0.1))
@@ -2893,13 +2893,13 @@
     (tags capacitor)
     (path /6033F22A)
     (attr smd)
-    (fp_text reference C2 (at 0 -1.16) (layer F.SilkS)
+    (fp_text reference C2 (at 0 -1.16) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1uF (at 0 1.16) (layer F.Fab)
+    (fp_text value 1uF (at 0 1.16) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0) (layer F.Fab)
+    (fp_text user %R (at 0 0) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
@@ -2929,13 +2929,13 @@
     (tags capacitor)
     (path /6033FCAF)
     (attr smd)
-    (fp_text reference C1 (at 0 -1.16 90) (layer F.SilkS)
+    (fp_text reference C1 (at 0 -1.16 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1uF (at 0 1.16 90) (layer F.Fab)
+    (fp_text value 1uF (at 0 1.16 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user %R (at 0 0 90) (layer F.Fab)
+    (fp_text user %R (at 0 0 90) (layer F.Fab) hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
     )
     (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
