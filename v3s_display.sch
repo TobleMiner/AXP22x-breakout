@@ -1896,10 +1896,10 @@ $EndComp
 Wire Wire Line
 	7250 2050 7250 2100
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H1
 U 1 1 615C33D2
 P 9800 5550
-F 0 "H?" H 9900 5596 50  0000 L CNN
+F 0 "H1" H 9900 5596 50  0000 L CNN
 F 1 "MountingHole" H 9900 5505 50  0000 L CNN
 F 2 "ToolingHole:ToolingHole_JLCSMT" H 9800 5550 50  0001 C CNN
 F 3 "~" H 9800 5550 50  0001 C CNN
@@ -1907,10 +1907,10 @@ F 3 "~" H 9800 5550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H2
 U 1 1 615C3728
 P 9800 5750
-F 0 "H?" H 9900 5796 50  0000 L CNN
+F 0 "H2" H 9900 5796 50  0000 L CNN
 F 1 "MountingHole" H 9900 5705 50  0000 L CNN
 F 2 "ToolingHole:ToolingHole_JLCSMT" H 9800 5750 50  0001 C CNN
 F 3 "~" H 9800 5750 50  0001 C CNN
